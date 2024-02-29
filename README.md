@@ -14,6 +14,9 @@ What models would be the best in predicting it?
 ## What we learnt
 
 ## Contributors
+@Eyewhy
+@huegashi
+@GabrielLim01
 
 
 ## References
