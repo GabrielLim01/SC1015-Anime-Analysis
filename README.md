@@ -6,7 +6,9 @@ Can we predict which anime receives a higher audience rating based on its attrib
 What models would be the best in predicting it? 
 
 ## Parts
-
+  1.Data Cleaning
+  2.Exploratory Analysis
+  3.Linear Regression
 
 
 ## Conclusion
