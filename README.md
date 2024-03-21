@@ -1,3 +1,8 @@
+# SC1015-Anime-Analysis
+Analysis of anime data
+
+=======
+
 # TO NOTE
 We are only evaluating seasonals right now because I cleaned the dataset based on season, if yall really want we can add the other types back in also
 
